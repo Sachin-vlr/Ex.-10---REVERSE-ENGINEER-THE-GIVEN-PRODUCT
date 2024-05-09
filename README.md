@@ -1,6 +1,6 @@
 # Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 
+### DATE: 06.05.2024
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -32,11 +32,15 @@
 
 ## Input:
 
+![image](https://github.com/NAVEEN23013059/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/150319555/65ddaf14-15f2-4cb9-8961-cd40168ae7c7)
+
+
 ### Output:
 
+![image](https://github.com/NAVEEN23013059/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/150319555/0273ff3e-013b-4894-b4c6-6580d859d125)
 
-### Name:
-### Register Number:
+### Name: SACHIN C
+### Register Number:212222230125
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
