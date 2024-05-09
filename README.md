@@ -29,11 +29,9 @@
   ###   ●	Wait until the nozzle & bed plate comes into the required temperature.
   ###   ●	Close the doors of the 3d printer.
   ###   ●	Open the file from the USB storage and select the Print option.
-
 ## Input:
 
 ![image](https://github.com/NAVEEN23013059/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/150319555/65ddaf14-15f2-4cb9-8961-cd40168ae7c7)
-
 
 ### Output:
 
