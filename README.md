@@ -1,15 +1,12 @@
 # Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
 
 ### DATE: 06.05.2024
-
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
-
 ## REQUIREMENTS:
 ### ●	CURA 4.0 Software
 ### ●	 Autodesk Fusion 360
 ### ●	 System - Windows 7 or higher, 1 GB RAM.
-
 ## PROCEDURE:
 ### Step 1.:- Duplicate all the geometric features for the given object using vernier caliper, measuring tapes or any instruments provided
 ### Step 2.:- Design the geometric features in 3D using auto desk fusion 360.
@@ -30,13 +27,9 @@
   ###   ●	Close the doors of the 3d printer.
   ###   ●	Open the file from the USB storage and select the Print option.
 ## Input:
-
 ![image](https://github.com/NAVEEN23013059/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/150319555/65ddaf14-15f2-4cb9-8961-cd40168ae7c7)
-
 ### Output:
-
 ![image](https://github.com/NAVEEN23013059/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/150319555/0273ff3e-013b-4894-b4c6-6580d859d125)
-
 ### Name: SACHIN C
 ### Register Number:212222230125
 
